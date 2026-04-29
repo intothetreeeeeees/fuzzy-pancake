@@ -1,0 +1,18 @@
+filename = 'glassbreaker-2.0.0+1.21+neoforge.jar'
+name = 'Glass Breaker'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.0+1.21+neoforge'
+
+[download]
+hash = 'bc311b0574c2343ef168f337678603a3f93e7ff37b1f73aebe838c99db3f7d6be5e0565e9fb211c9827c860e55c48897aa7de7e8f203e7ce8829c547727d7ce4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vY7Ka6pe/versions/2YPMqEiY/glassbreaker-2.0.0%2B1.21%2Bneoforge.jar'
+
+[update.modrinth]
+mod-id = 'vY7Ka6pe'
+version = '2YPMqEiY'

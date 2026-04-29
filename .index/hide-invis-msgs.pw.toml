@@ -1,0 +1,37 @@
+filename = 'hideinvismsgs-1.0.jar'
+name = 'Hide Invis Msgs'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10'
+]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.1'
+
+[download]
+hash = '35aed019cbc08959893e89ffc39681123228309d9fe0c5e4dd5338395fc3fdccbef0107d69e762df99658fb0f4a4841bca10a0ac1b142285902362191b976538'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kKHaHIUL/versions/t2fMQNrr/hideinvismsgs-1.0.jar'
+
+[update.modrinth]
+mod-id = 'kKHaHIUL'
+version = 't2fMQNrr'
