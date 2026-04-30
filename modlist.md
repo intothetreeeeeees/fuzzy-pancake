@@ -1,4 +1,5 @@
 # mod list
+> info: modloader is neoforge 1.21.1
 ## required mods
 > _you need these or you wont be able to connect, and the versions have to match_
 
