@@ -9,9 +9,11 @@
 - [The Aether](https://modrinth.com/mod/aether)
 - [Applied Energistics 2](https://modrinth.com/mod/ae2)
 - [Ars Noveau](https://modrinth.com/mod/ars-nouveau)
+- [Artifacts](https://modrinth.com/mod/artifacts)
 - [Iron's Spells 'N Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)
 - [Traveller's Backpack](https://modrinth.com/mod/travelersbackpack)
 - [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+- [You're In Grave Danger](https://modrinth.com/mod/yigd)
 
 \+ Dependencies
 
@@ -20,6 +22,8 @@
 
 - [Ping Wheel](https://modrinth.com/mod/ping-wheel)
 - [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat)
+- [JEI](https://modrinth.com/mod/jei)
+- [REI](https://modrinth.com/mod/rei)
 
 ## server side mods
 > _these mods are not required_
