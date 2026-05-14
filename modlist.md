@@ -18,14 +18,14 @@
 #### recently added mods
 > _if youre updating add these to your mod list_
 
-> [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm)
-> [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)
-> [Ars Energistique](https://modrinth.com/mod/ars-energistique)
-> [Deep Aether](https://modrinth.com/mod/deep-aether)
-> [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
-> [Twilight's Flavour And Delight](https://modrinth.com/mod/twilight-delight)
-> [Aether's Delight](https://modrinth.com/mod/the-aethers-delight)
-> [Ars Flavour And Delight](https://modrinth.com/mod/arsdelight)
+- [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm)
+- [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)
+- [Ars Energistique](https://modrinth.com/mod/ars-energistique)
+- [Deep Aether](https://modrinth.com/mod/deep-aether)
+- [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
+- [Twilight's Flavour And Delight](https://modrinth.com/mod/twilight-delight)
+- [Aether's Delight](https://modrinth.com/mod/the-aethers-delight)
+- [Ars Flavour And Delight](https://modrinth.com/mod/arsdelight)
 
 \+ Dependencies
 
